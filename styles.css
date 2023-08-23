@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.container{
+.hero{
 	display:flex;
 	justify-content:space-evenly;
 	align-items:center;
